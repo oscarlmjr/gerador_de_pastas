@@ -1,0 +1,5 @@
+Section 1: Introducao 
+Section 2: Projeto # 3 - Desafio: Aplicativo de Lista de Tarefas 
+Section 3: Projetos Usando o Vue CLI 
+Section 4: Vuex e Vue Router 
+Section 5: Composition API 
